@@ -221,7 +221,7 @@ The application can be deployed using Render.
 
 ### Live Deployment URL
 
-**Deployment URL:** To be added after deployment.
+https://backend-lab-reports-6dcs.onrender.com/
 
 Once deployed, the endpoints can be accessed using:
 
