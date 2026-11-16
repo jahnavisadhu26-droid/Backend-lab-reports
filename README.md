@@ -21,3 +21,7 @@ SQLite Database and CRUD Operations
 
 ### Lab 03
 REST API, Query Parameters, Validation, and Debugging
+### Lab 04
+
+User Registration, Login and JWT Authentication
+
